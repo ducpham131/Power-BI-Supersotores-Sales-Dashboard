@@ -54,8 +54,7 @@ For a "user-centric" approach, it's important to understand what user's need. I 
 
 ## Data Modeling
 I create a dimension table using Power Query. This way, I can manage key dimensions more effectively and improve performance.
-![Data Model](https://github.com/ducpham131/Power-BI-Supersotores-Sales-Dashboard/assets/169105426/94c87618-77ac-4dd7-a269-78240bada272)
-
+<img src="https://github.com/ducpham131/Power-BI-Supersotores-Sales-Dashboard/assets/169105426/94c87618-77ac-4dd7-a269-78240bada272" alt="..." width="500" />
 
 
 
