@@ -51,7 +51,8 @@ This Dataset record sales of branches accross the word. It contains 3 tables:
 
 
 ## Data Modeling
-I create a dimension table using Power Q700" />
+I create a dimension table using Power Query. This way, I can manage key dimensions more effectively and improve performance.
+<img src="https://github.com/ducpham131/Power-BI-Supersotores-Sales-Dashboard/assets/169105426/94c87618-77ac-4dd7-a269-78240bada272" alt="..." width="700" />
 
 
 
