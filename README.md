@@ -47,13 +47,11 @@ This Dataset record sales of branches accross the word. It contains 3 tables:
 |Market|varchar|
 
 ## Design Thinking
-*Have a look at "Design Thinking Framework.xlsx" for more details.*
-### Step 1 - Empathize
-For a "user-centric" approach, it's important to understand what user's need. I  identify the.
+![Design Thinking Framework](https://github.com/ducpham131/Power-BI-Supersotores-Sales-Dashboard/assets/169105426/8ae7d84c-8199-434a-a5ab-2d124eb4ecb5)
 
 
 ## Data Modeling
-I create a dimension table using Power Query. This way, I can manage key dimensions more effectively and improve performance.
+I create a dimension table using Power Query. By this way, I can manage key dimensions more effectively and improve performance.
 <img src="https://github.com/ducpham131/Power-BI-Supersotores-Sales-Dashboard/assets/169105426/94c87618-77ac-4dd7-a269-78240bada272" alt="..." width="500" />
 
 
