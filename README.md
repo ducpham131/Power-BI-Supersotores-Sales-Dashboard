@@ -49,10 +49,6 @@ This Dataset record sales of branches accross the word. It contains 3 tables:
 ### Design Thinking
 * Take a look at "Design Thinking Framework.xlsx" for more details.*
 ### Step 1 - Empathize
-|   |Deatail|Questions|Brainstorming|
-|:--|:-----:|:-------:|------------:|
-|Step 1|Stakeholder Challenge|Bài toán stakeholder đang giải quyết là gì? Họ đang gặp khó khăn gì?|Devise market expansion strategies and select strategic products|
-|------|Dashboard Goal|
 
 
 
