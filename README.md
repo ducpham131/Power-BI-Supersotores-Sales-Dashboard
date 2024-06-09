@@ -46,9 +46,16 @@ This Dataset record sales of branches accross the word. It contains 3 tables:
 |Order ID|varchar|
 |Market|varchar|
 
-### Design Thinking
-* Take a look at "Design Thinking Framework.xlsx" for more details.*
+## Design Thinking
+*Have a look at "Design Thinking Framework.xlsx" for more details.*
 ### Step 1 - Empathize
+For a "user-centric" approach, it's important to understand what user's need. I  identify the.
+
+
+## Data Modeling
+I create a dimension table using Power Query. This way, I can manage key dimensions more effectively and improve performance.
+
+
 
 
 
