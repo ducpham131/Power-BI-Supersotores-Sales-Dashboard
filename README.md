@@ -59,4 +59,19 @@ I create a dimension table using Power Query. This way, I can manage key dimensi
 
 ![Superstores Sales Dashboard](https://github.com/ducpham131/Power-BI-Supersotores-Sales-Dashboard/assets/169105426/47676119-9187-4b2d-b30e-ce7289baae70)
 
+## Insights
+- The number of orders tends to increase in the last quarters of the year, while ROS (Return on Sales) tends to increase in the first quarters of the year.
+- Consumer customers account for the highest proportion of revenue (51.63%).
+- The Priority level of orders is mainly at the Medium level (57.76%), followed by the High level (30.4%).
+- The Market with the highest revenue is APAC (3.32M), but it also has the highest average shipping cost per product (35.19).
+- The US is the country with the highest revenue (2.3M), far ahead of the second-ranked country, Australia (0.89M), and the third-ranked country, France (0.8M).
+- The average shipping time of Shipping Modes does not vary much between markets.
+- The Technology Category accounts for high revenue (4.51M) across markets and is also the Category with the highest profit (623K).
+- Copiers and Phones is the Sub-Category with the highest revenue and profit, while Tables is an ineffective product that does not generate profit.
 
+## Recommendations
+- Ensure sufficient inventory to meet the strong increase in demand at the end of the year, avoiding stock-out situations.
+- In markets with high sales, continue to expand and develop in countries like the US, Australia, China, France, and Germany.
+- In inefficient markets such as Canada and Africa, consider whether to continue maintaining business to gain market share or withdraw to focus on developing other markets.
+- Increase competitiveness by reducing delivery times or lowering shipping costs.
+- Copiers and Phones can be chosen as strategic products due to their high revenue and profits. Consider stopping the sale of Tables products due to their losses.
