@@ -65,7 +65,7 @@ I create a dimension table using Power Query. This way, I can manage key dimensi
 - The **Priority** level of orders is mainly at the **Medium** level **(57.76%)**, followed by the **High** level **(30.4%)**.
 - The **Market** with the highest revenue is **APAC (3.32M)**, but it also has the highest average **Shipping cost** per product **(35.19)**.
 - The **US** is the country with the highest revenue **(2.3M)**, far ahead of the second-ranked country, **Australia (0.89M)**, and the third-ranked country, **France (0.8M)**.
-- The average shipping time of** Shipping Modes** does not vary much between markets.
+- The average shipping time of **Shipping Modes** does not vary much between markets.
 - The **Technology Category** accounts for high **revenue (4.51M)** across markets and is also the Category with the highest **profit (623K)**.
 - **Copiers** and **Phones** is the **Sub-Category** with the highest revenue and profit, while **Tables** is an ineffective product that does not generate profit.
 
