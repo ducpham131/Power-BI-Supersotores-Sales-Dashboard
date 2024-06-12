@@ -1,6 +1,7 @@
 # Power BI: Supersotores Sales Dashboard
 ## Introduction
 A Retail Company has stores around the word. Senior Manager wants to have a overview about bussiness for expand strategy and choosing key products. In this project, I apply Design Thinking framework to build a dashboard by Power BI. I will carry out analysis that involve 3 step: Design Thinking, Data Modeling and Visualization.
+---
 ## Dataset
 This Dataset record sales of branches accross the word. It contains 3 tables:
 - Ordes: Fact table.
@@ -45,19 +46,25 @@ This Dataset record sales of branches accross the word. It contains 3 tables:
 |Returned|varchar|
 |Order ID|varchar|
 |Market|varchar|
+***
 
 ## Design Thinking
 ![Design Thinking Framework](https://github.com/ducpham131/Power-BI-Supersotores-Sales-Dashboard/assets/169105426/8ae7d84c-8199-434a-a5ab-2d124eb4ecb5)
 
+***
 
 ## Data Modeling
 I create a dimension table using Power Query. This way, I can manage key dimensions more effectively and improve performance.
 
 <img src="https://github.com/ducpham131/Power-BI-Supersotores-Sales-Dashboard/assets/169105426/94c87618-77ac-4dd7-a269-78240bada272" alt="..." width="700" />
 
+***
+
 ## Visualization
 
 ![Superstores Sales Dashboard](https://github.com/ducpham131/Power-BI-Supersotores-Sales-Dashboard/assets/169105426/47676119-9187-4b2d-b30e-ce7289baae70)
+
+***
 
 ## Insights
 - The number of orders tends to increase in the last quarters of the year, while **ROS** (Return on Sales) tends to increase in the first quarters of the year.
